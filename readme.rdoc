@@ -1,0 +1,16 @@
+= Mike Hanley's Mac OS X dot files
+
+  Last updated by Mike Hanley on Saturday, February 26, 2011.
+
+== Installation
+
+  git clone git://github.com/greyskull/dotfiles ~/.dotfiles
+  cd ~/.dotfiles
+  ./install
+
+
+== Environment
+
+I am running on Mac OS X and use tcsh as my interactive shell.
+
+  chsh -s /bin/csh
